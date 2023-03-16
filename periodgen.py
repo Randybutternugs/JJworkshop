@@ -1,5 +1,6 @@
 import random
 
+
 total_time = 180  # 3 hours in minutes
 
 # Generate four random periods of time that add up to total_time
